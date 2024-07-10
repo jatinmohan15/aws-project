@@ -1,6 +1,6 @@
-customhost = "employee-database.c9qgues8e68c.us-east-1.rds.amazonaws.com"
+customhost = "employee.c9qgues8e68c.us-east-1.rds.amazonaws.com"
 customuser = "admin"
 custompass = "Awsproject"
-customdb = "employee-database"
+customdb = "employee"
 custombucket = "add-empbucket"
 customregion = "us-east-1"
